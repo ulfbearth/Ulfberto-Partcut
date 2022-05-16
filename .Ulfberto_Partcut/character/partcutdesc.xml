@@ -2396,10 +2396,10 @@
 	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0075_dm.pac</File>
 	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0075_mul.pac</File>
 	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0075_mul_dm.pac</File>
-	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097.pac</File>
-	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097_dm.pac</File>
-	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097_mul.pac</File>
-	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097_mul_dm.pac</File>
+	<!--<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097.pac</File>-->
+	<!--<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097_dm.pac</File>-->
+	<!--<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097_mul.pac</File>-->
+	<!--<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0097_mul_dm.pac</File>-->
 	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0109.pac</File>
 	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0109_dm.pac</File>
 	<File>1_pc/4_pgm/armor/9_upperbody/pgm_00_ub_0109_mul.pac</File>
@@ -7338,10 +7338,10 @@
 	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0072_mul_dm.pac</File>
 	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0075.pac</File>
 	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0075_dm.pac</File>
-	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097.pac</File>
-	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097_dm.pac</File>
-	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097_mul.pac</File>
-	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097_mul_dm.pac</File>
+	<!--<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097.pac</File>-->
+	<!--<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097_dm.pac</File>-->
+	<!--<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097_mul.pac</File>-->
+	<!--<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0097_mul_dm.pac</File>-->
 	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0109.pac</File>
 	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0109_dm.pac</File>
 	<File>1_pc/4_pgm/armor/11_hand/pgm_00_hand_0116.pac</File>
@@ -10339,7 +10339,7 @@
 	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0072_mul_dm.pac</File>
 	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0075.pac</File>
 	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0075_dm.pac</File>
-	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0097.pac</File>
+	<!--<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0097.pac</File>-->
 	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0109.pac</File>
 	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0109_dm.pac</File>
 	<File>1_pc/4_pgm/armor/10_lowerbody/pgm_00_lb_0109_mul.pac</File>
@@ -13870,7 +13870,7 @@
 	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0060_dm.pac</File>
 	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0072.pac</File>
 	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0075.pac</File>
-	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0097.pac</File>
+	<!--<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0097.pac</File>-->
 	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0109.pac</File>
 	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0109_01.pac</File>
 	<File>1_pc/4_pgm/armor/12_foot/pgm_00_foot_0109_02.pac</File>
@@ -23939,6 +23939,7 @@
 
 <CutType Name="Hel_CutBeard"> <!--           ????�??�?�?? ??ĸ               --->
 <File>1_Pc/8_PWM/Armor/13_Hel/PWM_00_Hel_0034_A.pac</File>
+	 <File>1_Pc/4_PGB/Armor/9_upperbody/pgb_04_ub_0001.pac</File>
 	 <File>1_Pc/8_PWM/Armor/13_Hel/PWM_00_Hel_0072_D.pac</File>
 	 <File>1_Pc/6_PKM/Armor/13_Hel/PKM_00_Hel_0072_D.pac</File>
 	 <File>1_Pc/1_PHM/Armor/13_Hel/PHM_00_Hel_0072_D.pac</File>
