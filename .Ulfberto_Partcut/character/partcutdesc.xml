@@ -29,10 +29,10 @@
  
  <!--  Read below if you want to fix Holes
 	
-		Lines that you "comment out" using <!--  and  --'> (without the ' ) will not be cut by the games engine.
+		Lines that you "comment out" using (without the ' ) will not be cut by the games engine.
 		Lines that are not commented out will be cut. 
 		
-		Or in short : Lines without <!-- ...  -- > are cut. Lines with <!-- ... -- > will not be cut  
+		Or in short : Lines without  are cut. Lines with  will not be cut  
 	--> 
  
 
@@ -1065,7 +1065,7 @@
 	<File>1_PC/24_pfw/armor/38_underwear/pfw_00_uw_1040_01.pac</File>
 	<File>1_PC/24_pfw/armor/38_underwear/pfw_hw_uw_0031.pac</File>
 	<File>1_pc/24_pfw/armor/38_underwear/pfw_10_uw_0048.pac</File>
-	<File>1_pc/24_pfw/armor/38_underwear/pfw_10_uw_0048_01.pac</File>
+	<File>1_pc/24_pfw/armor/38_underwear/pfw_10_uw_0048_01.pac</File>pgm_00_ub_0097_mul
 	<File>1_pc/24_pfw/armor/38_underwear/pfw_10_uw_0048_02.pac</File>
 	<File>1_pc/24_pfw/armor/38_underwear/pfw_10_uw_0013.pac</File>
 	<File>1_pc/24_pfw/armor/38_underwear/pfw_10_uw_1013.pac</File>
@@ -2118,7 +2118,7 @@
 </CutType>
 
 <CutType Name="Upperbody">
-	<File>1_pc/4_pgb/armor/9_upperbody/pgb_04_ub_0001.pac</File>
+	<!--<File>1_pc/4_pgb/armor/9_upperbody/pgb_04_ub_0001.pac</File>-->
 	<File>1_pc/10_pjw/armor/9_upperbody/pjw_00_ub_0001.pac</File>
 	
 	<!-- 1_PHM    Warrior -->
@@ -5520,10 +5520,10 @@
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0007_dm.pac</File>
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0033.pac</File>
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0033_dm.pac</File>
-	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0034.pac</File>
+	<!-- <File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0034.pac</File>
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0034_01.pac</File>
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0034_01_dm.pac</File>
-	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0034_dm.pac</File>
+	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0034_dm.pac</File> -->
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0037.pac</File>
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_00_ub_0037_dm.pac</File>
 	<File>1_pc/23_ppm/armor/9_upperbody/ppm_02_ub_0001.pac</File>
@@ -13241,10 +13241,10 @@
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0007_02_dm.pac</File>
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0007_03.pac</File>
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0007_03_dm.pac</File>
-	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0034.pac</File>
+	<!-- <File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0034.pac</File>
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0034_01.pac</File>
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0034_01_dm.pac</File>
-	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0034_dm.pac</File>
+	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0034_dm.pac</File> -->
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0037.pac</File>
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_00_lb_0037_dm.pac</File>
 	<File>1_pc/23_ppm/armor/10_lowerbody/ppm_02_lb_0001.pac</File>
@@ -13464,7 +13464,7 @@
 
 <CutType Name="Foot">
 
-	<File>1_pc/4_pgb/armor/12_foot/pgb_01_foot_0001.pac</File>
+	<!--<File>1_pc/4_pgb/armor/12_foot/pgb_01_foot_0001.pac</File>-->
 
 		<!-- 1_PHM    Warrior -->
 		
@@ -16419,15 +16419,15 @@
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0001_op_a.pac</File>
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0003_a.pac</File>
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0004.pac</File>
-	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_01_02_op_a.pac</File>
-	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_01_03_op_a.pac</File>
-	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_01_op_a.pac</File>
+	<!-- <File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_01_02_op_a.pac</File> -->
+	<!-- <File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_01_03_op_a.pac</File> -->
+	<!-- <File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_01_op_a.pac</File> -->
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_02_f.pac</File>
-	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_02_op_a.pac</File>
+	<!-- <File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_02_op_a.pac</File> -->
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_03_f.pac</File>
-	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_03_op_a.pac</File>
+	<!-- <File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_03_op_a.pac</File> -->
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_f.pac</File>
-	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_op_a.pac</File>
+	<!-- <File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0007_op_a.pac</File> -->
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0030.pac</File>
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0030_op_a.pac</File>
 	<File>1_pc/4_pgm/armor/13_hel/pgm_00_hel_0031.pac</File>
@@ -19873,7 +19873,7 @@
 
 <CutType Name="Hair">
 
-	<File>1_pc/4_pgb/head/hair/pgb_00_fur_0001_hair.pac</File>
+	<!-- <File>1_pc/4_pgb/head/hair/pgb_00_fur_0001_hair.pac</File> -->
 	<File>1_pc/10_pjw/head/hair/pjw_00_hair_0001.pac</File>
 	
 	<!-- 1_PHM    Warrior -->
@@ -21803,7 +21803,7 @@
 
 <CutType Name="PBW_Sho">
 
-	<File>1_pc/4_pgb/armor/14_sho/pgb_04_sho_0001.pac</File>
+	<!--<File>1_pc/4_pgb/armor/14_sho/pgb_04_sho_0001.pac</File>-->
 	
 	<!-- 3_PEW    Ranger -->
 	
@@ -23881,7 +23881,7 @@
 	<Path>1_Pc/1_PHM/Armor/13_Hel</Path>
 	<Path>1_Pc/2_PHW/Armor/13_Hel</Path>
 	<Path>1_Pc/3_PEW/Armor/13_Hel</Path>
-	<Path>1_Pc/4_PGM/Armor/13_Hel</Path>
+	<!-- <Path>1_Pc/4_PGM/Armor/13_Hel</Path> -->
 	<Path>1_Pc/5_PBW/Armor/13_Hel</Path>
 	<Path>1_Pc/6_PKM/Armor/13_Hel</Path>
 	<Path>1_Pc/7_PVW/Armor/13_Hel</Path>
@@ -23939,7 +23939,7 @@
 
 <CutType Name="Hel_CutBeard"> <!--           ????�??�?�?? ??ĸ               --->
 <File>1_Pc/8_PWM/Armor/13_Hel/PWM_00_Hel_0034_A.pac</File>
-	 <File>1_Pc/4_PGB/Armor/9_upperbody/pgb_04_ub_0001.pac</File>
+	 <!--<File>1_Pc/4_PGB/Armor/9_upperbody/pgb_04_ub_0001.pac</File>-->
 	 <File>1_Pc/8_PWM/Armor/13_Hel/PWM_00_Hel_0072_D.pac</File>
 	 <File>1_Pc/6_PKM/Armor/13_Hel/PKM_00_Hel_0072_D.pac</File>
 	 <File>1_Pc/1_PHM/Armor/13_Hel/PHM_00_Hel_0072_D.pac</File>
@@ -24076,7 +24076,7 @@
 	<Path>1_Pc/1_PHM/Head/Hair</Path>
 	<Path>1_Pc/2_PHW/Head/Hair</Path>
 	<Path>1_Pc/3_PEW/Head/Hair</Path>
-	<Path>1_Pc/4_PGM/Head/Hair</Path>
+	<!-- <Path>1_Pc/4_PGM/Head/Hair</Path> -->
 	<Path>1_Pc/5_PBW/Head/Hair</Path>
 	<Path>1_Pc/6_PKM/Head/Hair</Path>
 	<Path>1_Pc/7_PVW/Head/Hair</Path>
@@ -24417,12 +24417,12 @@
 	<File>1_Pc/17_PSW/Event_costume_Hel/PSW_00_Contribute_Hel_0106.pac</File>
 	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_10_Hel_0039.pac</File>
 	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0152_D.pac</File>
-	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_op_A.pac</File>
-	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_02_op_A.pac</File>
-	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_03_op_A.pac</File>
-	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_01_op_A.pac</File>
-	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_01_02_op_A.pac</File>
-	<File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_01_03_op_A.pac</File>	
+	<!-- <File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_op_A.pac</File> -->
+	<!-- <File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_02_op_A.pac</File> -->
+	<!-- <File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_03_op_A.pac</File> -->
+	<!-- <File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_01_op_A.pac</File> -->
+	<!-- <File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_01_02_op_A.pac</File> -->
+	<!-- <File>1_Pc/4_PGM/Armor/13_Hel/PGM_00_Hel_0007_01_03_op_A.pac</File>	-->
 </CutType>
 
 
@@ -25305,7 +25305,7 @@
 	<Cut>Hores_Legfur</Cut>	
 </Relation>
 
-<Relation CutType="PGM_HandCanon">
+<!-- <Relation CutType="PGM_HandCanon">
 	<Cut>Nude</Cut>	
 	<Cut>Underwear</Cut>
 </Relation>
@@ -25319,7 +25319,7 @@
 	<Cut>Event</Cut>	
 	<Cut>Event_UB</Cut>	
 	<Cut>EventCostume</Cut>	
-</Relation>
+</Relation> -->
 
 
 <Relation CutType="Earring">
@@ -25494,11 +25494,11 @@
         <Cut>PWM_HairCut</Cut>
 </Relation>
 
-<Relation CutType="PGM_Hel">
+<!-- <Relation CutType="PGM_Hel">
         <Cut>Hair</Cut>
         <Cut>Earring</Cut>
         <Cut>Beard</Cut>
-</Relation>
+</Relation> -->
 
 <Relation CutType="EnchantArm">
 	<Cut>Hand</Cut>
